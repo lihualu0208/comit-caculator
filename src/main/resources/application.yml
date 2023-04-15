@@ -1,1 +1,4 @@
 
+#tomcat server
+server:
+  port: 8081
